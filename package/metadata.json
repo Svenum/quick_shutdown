@@ -4,7 +4,7 @@
         "Authors": [
             {
                 "Email": "s.ziegler@holypenguin.net",
-                "Name": "Sven Ziegler",
+                "Name": "Sven Ziegler"
             },
             {
                 "Email": "kde@privat.broulik.de",
@@ -16,7 +16,7 @@
         "Icon": "system-shutdown",
         "Id": "org.kde.plasma.quickshutdown",
         "License": "GPL-2.0+",
-        "Name": "Quick Shutdown",
+        "Name": "Quick Shutdown"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }
